@@ -51,9 +51,14 @@
 					}	
 				}
 			}
-
-			
 		}
+
+		document.addEventListener("keyup", (event) => {
+		    switch (event.keyCode) {
+		    	case 13:
+		    		change();
+		    }
+		});
 
 	</script>
 </body>
