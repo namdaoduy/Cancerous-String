@@ -1,0 +1,36 @@
+* {
+    font-family: sans-serif;
+}
+
+html, body {
+}
+
+body {
+    background-color: bisque;
+}
+
+h1 {
+    font-size: 30px;
+    text-align: center;
+    color: #0f5e80;
+}
+
+.hihi {
+    text-align: center;
+    width: 300px;
+    margin: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+#InputString {
+    display: block;
+    width: 300px;
+    margin: auto;
+    height: 50px;
+}
+
+.start {
+    display: block;
+    margin: auto;
+}
